@@ -3,20 +3,20 @@
 
 
 <!--
-**abhishek-shukla21/abhishek-shukla21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**abhishek-shukla21/abhishek-shukla21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on : Python
 - 🌱 I’m currently learning : DS using Python
- -->
+ <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 
 Contact Me:
 [Linkedin](https://www.linkedin.com/in/abhishek-shukla21/) | [Twitter](https://twitter.com/sarcaster_21)  | [Instagram](https://www.instagram.com/sarcaster_21/)
