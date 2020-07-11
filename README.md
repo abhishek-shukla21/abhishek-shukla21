@@ -1,11 +1,9 @@
 [![logo](https://github.com/abhishek-shukla21/abhishek-shukla21/blob/master/assets/1.jpg)](https://www.youtube.com/channel/UC4oS-yUanNQHP9qsRnpxy8g?view_as=subscriber)
-### Hi there 👋
+### Hi there Click on the Above Link for My YouTube Channel 👋
 
 
 <!--
 **abhishek-shukla21/abhishek-shukla21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on : Python
 - 🌱 I’m currently learning : DS using Python
@@ -18,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Contact Me:
+### Contact Me 📞:
 [Linkedin](https://www.linkedin.com/in/abhishek-shukla21/) | [Twitter](https://twitter.com/sarcaster_21)  | [Instagram](https://www.instagram.com/sarcaster_21/)
