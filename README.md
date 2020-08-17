@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on : Python
 - 🌱 I’m currently learning : DS using Python
-### Language and Tools:
+### 🔶 Language and Tools 🔶
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -22,7 +22,7 @@
 - ⚡ Fun fact: ...
 -->
 
-### Contact Me 📞:
+### 🔴  Contact Me📞 🔴
 <a href="https://twitter/sarcaster_21"><img height="30" src="https://github.com/abhishek-shukla21/abhishek-shukla21/blob/master/assets/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram/sarcaster_21"><img height="30" src="https://github.com/abhishek-shukla21/abhishek-shukla21/blob/master/assets/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in//abhishek-shukla21/"><img height="30" src="https://github.com/abhishek-shukla21/abhishek-shukla21/blob/master/assets/linkedin.png?raw=true"></a>
