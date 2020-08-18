@@ -4,14 +4,14 @@
 - 🔭 I’m currently working on : Python
 - 🌱 I’m currently learning : DS using Python
 - 💬 Ask me about : Movies, Sitcoms
-- ⚡ Fun fact : Fun Facts are never fun
+- ⚡ Fun fact : Fun Facts are never fun <br>
 ![](https://komarev.com/ghpvc/?username=abhishek-shukla21&color=red) 
 ### 🔶 Language and Tools 🔶
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-![](https://komarev.com/ghpvc/?username=abhishek-shukla21&color=green) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-shukla21)](https://github.com/abhishek-shukla21/github-readme-stats) 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-shukla21)](https://github.com/abhishek-shukla21/github-readme-stats) <br>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=abhishek-shukla21&show_icons=true&theme=synthwave)
 ![]() 
 ### 🔴  Contact Me📞 
