@@ -13,7 +13,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-shukla21)](https://github.com/abhishek-shukla21/github-readme-stats) <p>
 
 ### 🔴  Contact Me📞 
-<a href= "mailto: shuklaabhishek1221@gmail.com"><img height="30" src="https://github.com/abhishek-shukla21/abhishek-shukla21/blob/master/assets/gmail.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href= "mailto: shuklaabhishek1221@gmail.com"><img height="30" src="https://github.com/abhishek-shukla21/abhishek-shukla21/blob/master/assets/g.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter/sarcaster_21"><img height="30" src="https://github.com/abhishek-shukla21/abhishek-shukla21/blob/master/assets/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram/sarcaster_21"><img height="30" src="https://github.com/abhishek-shukla21/abhishek-shukla21/blob/master/assets/instagram.jpg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in//abhishek-shukla21/"><img height="30" src="https://github.com/abhishek-shukla21/abhishek-shukla21/blob/master/assets/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;
