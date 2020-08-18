@@ -11,6 +11,8 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=abhishek-shukla21&show_icons=true&theme=synthwave)
 ![]() <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-shukla21)](https://github.com/abhishek-shukla21/github-readme-stats) <p>
+  <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+  <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="abhishek-shukla21"><a class="LI-simple-link" href='https://in.linkedin.com/in/abhishek-shukla21?trk=profile-badge'>Abhishek Shukla</a></div>
 
 ### 🔴  Contact Me📞 
 <a href= "mailto: shuklaabhishek1221@gmail.com"><img height="30" src="https://github.com/abhishek-shukla21/abhishek-shukla21/blob/master/assets/g.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;
