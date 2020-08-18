@@ -1,9 +1,9 @@
-[![logo](https://github.com/abhishek-shukla21/abhishek-shukla21/blob/master/assets/1.jpg)](https://www.youtube.com/channel/UC4oS-yUanNQHP9qsRnpxy8g?view_as=subscriber)
+[![logo](https://github.com/abhishek-shukla21/abhishek-shukla21/blob/master/assets/new.jpg)](https://www.youtube.com/channel/UC4oS-yUanNQHP9qsRnpxy8g?view_as=subscriber)
 
 ###                🔷   Hi there👋,  Click on the Above Link for My YouTube Channel.  🔷
 - 🔭 I’m currently working on : Python
 - 🌱 I’m currently learning : DS using Python
-- 💬 Ask me about : Movies, Sitcoms
+- 💬 Ask me about : Movies, Music,Sitcoms
 - ⚡ Fun fact : Fun Facts are never fun <p>
 ![](https://komarev.com/ghpvc/?username=abhishek-shukla21&color=red) 
 ### 🔶 Language and Tools 🔶
