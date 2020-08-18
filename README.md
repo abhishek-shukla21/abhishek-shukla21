@@ -1,4 +1,4 @@
-[![logo](https://github.com/abhishek-shukla21/abhishek-shukla21/blob/master/assets/logo.jpg.jpeg)](https://www.youtube.com/channel/UC4oS-yUanNQHP9qsRnpxy8g?view_as=subscriber)
+[![logo](https://github.com/abhishek-shukla21/abhishek-shukla21/blob/master/assets/logoo.jpg.jpeg)](https://www.youtube.com/channel/UC4oS-yUanNQHP9qsRnpxy8g?view_as=subscriber)
 
 ###                🔷   Hi there👋,  Click on the Above Link for My YouTube Channel.  🔷
 - 🔭 I’m currently working on : Python
