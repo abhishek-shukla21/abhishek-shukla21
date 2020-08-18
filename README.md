@@ -17,7 +17,7 @@
 ### 🔴  Contact Me📞 
 <a href="https://twitter/sarcaster_21"><img height="30" src="https://github.com/abhishek-shukla21/abhishek-shukla21/blob/master/assets/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram/sarcaster_21"><img height="30" src="https://github.com/abhishek-shukla21/abhishek-shukla21/blob/master/assets/instagram.jpg?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in//abhishek-shukla21/"><img height="30" src="https://github.com/abhishek-shukla21/abhishek-shukla21/blob/master/assets/linkedin.png?raw=true"></a>
-<a href="https://youtube.com/abhishek-shukla21"><img height="30" src="https://github.com/abhishek-shukla21/abhishek-shukla21/blob/master/assets/yt.png?raw=true"></a>
+<a href="https://www.linkedin.com/in//abhishek-shukla21/"><img height="30" src="https://github.com/abhishek-shukla21/abhishek-shukla21/blob/master/assets/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://youtube.com/abhishek-shukla21"><img height="35" src="https://github.com/abhishek-shukla21/abhishek-shukla21/blob/master/assets/yt.png?raw=true"></a>
 
 
