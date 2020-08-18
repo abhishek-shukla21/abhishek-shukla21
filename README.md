@@ -1,6 +1,4 @@
-[![logo](https://github.com/abhishek-shukla21/abhishek-shukla21/blob/master/assets/logoo.jpg.jpeg)](https://www.youtube.com/channel/UC4oS-yUanNQHP9qsRnpxy8g?view_as=subscriber)
-
-###                🔷   Hi there👋,  Click on the Above Link for My YouTube <a href="https://youtube.com/abhishek-shukla21"><img height="30" src="https://github.com/abhishek-shukla21/abhishek-shukla21/blob/master/assets/yt.png?raw=true"></a> Channel.  🔷
+###                🔷   Hi there👋 🔷
 - 🔭 I’m currently working on : Python
 - 🌱 I’m currently learning : DS using Python
 - 💬 Ask me about : Movies, Music,Sitcoms
