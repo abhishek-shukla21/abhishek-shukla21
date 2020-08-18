@@ -9,10 +9,10 @@
 ### 🔶 Language and Tools 🔶
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <p>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=abhishek-shukla21&show_icons=true&theme=synthwave)
 ![]() 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-shukla21)](https://github.com/abhishek-shukla21/github-readme-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-shukla21)](https://github.com/abhishek-shukla21/github-readme-stats) <p>
 
 ### 🔴  Contact Me📞 
 <a href="https://twitter/sarcaster_21"><img height="30" src="https://github.com/abhishek-shukla21/abhishek-shukla21/blob/master/assets/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;
