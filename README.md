@@ -21,6 +21,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://komarev.com/ghpvc/?username=abhishek-shukla21&color=green) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-shukla21)](https://github.com/abhishek-shukla21/github-readme-stats) 
+![Github stats](https://github-readme-stats.vercel.app/api?username=abhishek-shukla21&show_icons=true&theme=synthwave)
+![]() 
 
 ### 🔴  Contact Me📞 
 <a href="https://twitter/sarcaster_21"><img height="30" src="https://github.com/abhishek-shukla21/abhishek-shukla21/blob/master/assets/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;
