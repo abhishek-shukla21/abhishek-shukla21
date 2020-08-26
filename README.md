@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on : Python
 - 🌱 I’m currently learning : DS using Python
 - 💬 Ask me about : Movies, Music,Sitcoms
-- ⚡ Fun fact : Fun Facts are never fun <p>
+- ⚡ Fun fact : Due to CoronaVirus (COVID-19) all TCP applications are being converted to UDP to avoid handshakes!<p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://komarev.com/ghpvc/?username=abhishek-shukla21&color=red) 
 ### 🔶 Language and Tools 🔶
 &nbsp;&nbsp;&nbsp;&nbsp;<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
