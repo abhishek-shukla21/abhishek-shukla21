@@ -1,5 +1,5 @@
-###            &nbsp;&nbsp;&nbsp;&nbsp;    🔷   Hi there👋 🔷
-- 🔭 I’m currently working on : Python
+###  Hi there👋 
+- 🔭 I’m currently working on : Web Development
 - 🌱 I’m currently learning : DS using Python
 - 💬 Ask me about : Movies, Music,Sitcoms
 - ⚡ Fun fact : Due to CoronaVirus (COVID-19) all TCP applications are being converted to UDP to avoid handshakes!<p>
@@ -13,7 +13,7 @@
  
 ![Github stats](https://github-readme-stats.vercel.app/api?username=abhishek-shukla21&show_icons=true&theme=synthwave)
 ![]() <br>
-
+### 🟢 Download <a href="https://github.com/abhishek-shukla21/abhishek-shukla21.github.io/raw/main/Abhishek's_Resume.pdf"> Resume </a>
  ### 🔴  Contact Me📞 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href= "mailto: shuklaabhishek1221@gmail.com"><img height="30" src="https://github.com/abhishek-shukla21/abhishek-shukla21/blob/master/assets/g.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter/sarcaster_21"><img height="30" src="https://github.com/abhishek-shukla21/abhishek-shukla21/blob/master/assets/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;
