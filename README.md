@@ -22,7 +22,6 @@
  ### 🔴  Contact Me📞 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href= "mailto: shuklaabhishek1221@gmail.com"><img height="30" src="https://github.com/abhishek-shukla21/abhishek-shukla21/blob/master/assets/g.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter/sarcaster_21"><img height="30" src="https://github.com/abhishek-shukla21/abhishek-shukla21/blob/master/assets/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
 <a href="https://www.linkedin.com/in//abhishek-shukla21/"><img height="30" src="https://github.com/abhishek-shukla21/abhishek-shukla21/blob/master/assets/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://youtube.com/abhishek-shukla21"><img height="40" src="https://github.com/abhishek-shukla21/abhishek-shukla21/blob/master/assets/yt.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/_abhishek_shukla"><img height="35" src="https://github.com/abhishek-shukla21/abhishek-shukla21/blob/master/assets/hr.png?raw=true"></a>
