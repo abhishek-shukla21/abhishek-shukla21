@@ -1,7 +1,7 @@
 ###  Hi there👋 
 - 🔭 I’m currently working on : Web Development
 - 🌱 I’m currently learning : JS, React. 
-- 💬 Ask me about : Movies, Music, Sitcoms.
+
 - ⚡ Fun fact : Due to CoronaVirus (COVID-19) all TCP applications are being converted to UDP to avoid handshakes!<p>
 
 ### 🔶 Language and Tools 🔶
