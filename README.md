@@ -6,7 +6,7 @@
 
 ### Let's have an Introduction &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=abhishek-shukla21&style=flat-square&color=0088cc)
 
-I'm graduated with a Degree in Bachelor of Computer Applications 🎓 from Maharaja Surajmal Institute, New Delhi. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently learning Frontend Development 🕸️ and working writing tech blogs 🤓. For more visit my portfolio webiste.
+I'm graduated with a Degree in Bachelor of Computer Applications 🎓 from Maharaja Surajmal Institute, New Delhi. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently learning Frontend Development 🕸️ and working writing tech blogs 🤓. For more visit my portfolio website.
 
 Let's connect: <br>
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-shukla21/)
@@ -15,11 +15,12 @@ Let's connect: <br>
 
 
 
-### Talking about Personal Stuffs:
+### More About me:
 
 - 🛠 &nbsp; I’m currently working on  : FrontEnd Devlopment (MERN)
 - 🚀 &nbsp; I’m currently learning  : JS, Nodejs.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/abhishek-shukla21).
+- 📫 &nbsp; Special Intrests : Digital Marketing, Data Analysis, SEO 
 - 💬 &nbsp; Ask me about anything [here](https://www.twitter.com/sarcaster_21/)! I am happy to help.
 - 👾 &nbsp; Fun fact: The first-ever computer game made zero profit for its team of creators
 - 📫 &nbsp; How to reach me: shuklaabhishek1221@gmail.com.
@@ -27,7 +28,7 @@ Let's connect: <br>
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new tech stack and unboxing them.
+- 💻 &nbsp; I love exploring new tech gadgets and unboxing them.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 
 ## 🔥 Streak stats
