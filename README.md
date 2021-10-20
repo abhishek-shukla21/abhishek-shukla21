@@ -30,7 +30,7 @@ I'm graduated with a Degree in Bachelor of Computer Applications 🎓 from Mahar
 - 💬 &nbsp; Ask me about anything [here](https://www.twitter.com/sarcaster_21/)! I am happy to help.
 - 👾 &nbsp; Fun fact: I love to play videos games and volleyball.
 - 📫 &nbsp; How to reach me: shuklaabhishek1221@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1Y1NCrkgI-G2s_0_XcVfrcwwZN4vT5ql2/view?usp=sharing).
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/127DMrnTwLNpIDxlxxnAGATbgI1B1oI5x/view?usp=sharing).
 
 ### My Absolute Favorites:
 
