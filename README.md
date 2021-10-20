@@ -1,8 +1,3 @@
-<h2 align="center">
-  Hi, My name is <strong> Abhishek Shukla. </strong> Welcome to my profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-</h2>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+My+name+is+Abhishek+Shukla+%F0%9F%91%8B;I'm+a+Frontend+Developer%F0%9F%92%BB;Have+Knowledge+of+Data+Analysis;Always+try+to+learn+new+things)](https://git.io/typing-svg)
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-shukla21/)
