@@ -21,7 +21,7 @@ I'm graduated with a Degree in Bachelor of Computer Applications 🎓 from Mahar
 - 🚀 &nbsp; I’m currently learning  : JS, Nodejs.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/abhishek-shukla21).
 - 💬 &nbsp; Ask me about anything [here](https://www.twitter.com/sarcaster_21/)! I am happy to help.
-- 👾 &nbsp; Fun fact: I love to play videos games and volleyball.
+- 👾 &nbsp; Fun fact: The first-ever computer game made zero profit for its team of creators
 - 📫 &nbsp; How to reach me: shuklaabhishek1221@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/127DMrnTwLNpIDxlxxnAGATbgI1B1oI5x/view?usp=sharing).
 
