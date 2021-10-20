@@ -1,11 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+My+name+is+Abhishek+Shukla+%F0%9F%91%8B;I'm+a+Frontend+Developer%F0%9F%92%BB;Have+Knowledge+of+Data+Analysis;Always+try+to+learn+new+things)](https://git.io/typing-svg)
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-shukla21/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sarcaster_21/)
 
-  <p align="center">
-  <img width="400" height="240" src="https://media.giphy.com/media/KYh90pNGHTEEMryoqo/giphy.gif">
-  </p>
+  
 
 
 ### Let's have an Introduction &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=abhishek-shukla21&style=flat-square&color=0088cc)
@@ -13,6 +9,8 @@
 I'm graduated with a Degree in Bachelor of Computer Applications 🎓 from Maharaja Surajmal Institute, New Delhi. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently learning FrontEnd Development 🕸️ and working on strong my knowledge on Networking and Ethical Hacking 🤓.
 
 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-shukla21/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sarcaster_21/)
 
 
 
