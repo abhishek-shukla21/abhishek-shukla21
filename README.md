@@ -24,7 +24,7 @@ Let's connect: <br> <br>
 - 💬 &nbsp; Ask me about anything [here](https://www.twitter.com/sarcaster_21/)! I am happy to help.
 - 👾 &nbsp; Fun fact: The first-ever computer game made zero profit for its team of creators
 - 📫 &nbsp; How to reach me: shuklaabhishek1221@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/127DMrnTwLNpIDxlxxnAGATbgI1B1oI5x/view?usp=sharing).
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/127DMrnTwLNpIDxlxxnAGATbgI1B1oI5x/view?usp=sharing) and [Portfolio](https://abhishekshukla21.netlify.app/) Website.
 
 
 ### 🔨 Languages and Tools:
@@ -48,7 +48,7 @@ Let's connect: <br> <br>
 
 
 ## Most Used Languages
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-shukla21&layout=compact&count_private=true&theme=gruvbox" />
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-shukla21&layout=compact&count_private=true&theme=gruvbox" />
+</p>
 
