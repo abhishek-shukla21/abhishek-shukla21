@@ -37,15 +37,16 @@ Let's connect: <br> <br>
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 
 ### 🔥 Streak stats
-
+<p align="center">
   <a href="https://github.com/abhishek-shukla21/github-readme-streak-stats">
-    <img align="center" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="abhishekshukla21streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-shukla21&theme=monokai-metallian&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="abhishekshukla21streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-shukla21&theme=monokai-metallian&hide_border=true"/>
   </a>
-
+</p>
 
 ### ⚡ GitHub Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-shukla21&show_icons=true&count_private=true&theme=gruvbox" />
-
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=abhishek-shukla21&show_icons=true&count_private=true&theme=gruvbox" />
+</p>
 
 ## Most Used Languages
 <p align="center">
