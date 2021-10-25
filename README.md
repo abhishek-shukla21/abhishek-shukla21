@@ -18,9 +18,9 @@ Let's connect: <br> <br>
 ### More About me:
 
 - 🛠 &nbsp; I’m currently working on  : Web Devlopment (MERN)
-- 🚀 &nbsp; I’m currently learning  : JS, Nodejs.
+- 🚀 &nbsp; I’m currently learning  : JS, Nodejs, Express.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/abhishek-shukla21).
-- 📫 &nbsp; Special Intrests : Digital Marketing, Data Analysis, SEO 
+- 📫 &nbsp; Special interests : Digital Marketing, Data Analysis, SEO. 
 - 💬 &nbsp; Ask me about anything [here](https://www.twitter.com/sarcaster_21/)! I am happy to help.
 - 👾 &nbsp; Fun fact: The first-ever computer game made zero profit for its team of creators
 - 📫 &nbsp; How to reach me: shuklaabhishek1221@gmail.com.
