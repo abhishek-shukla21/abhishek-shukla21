@@ -22,7 +22,6 @@ Let's connect: <br> <br>
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/abhishek-shukla21).
 - 📫 &nbsp; Special interests : Web Development, Digital Marketing, Data Analysis, SEO. 
 - 💬 &nbsp; Ask me about anything [here](https://www.twitter.com/sarcaster_21/)! I am happy to help.
-- 👾 &nbsp; Fun fact: The first-ever computer game made zero profit for its team of creators
 - 📫 &nbsp; How to reach me: shuklaabhishek1221@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/127DMrnTwLNpIDxlxxnAGATbgI1B1oI5x/view?usp=sharing) and [Portfolio](https://abhishekshukla21.netlify.app/) Website.
 
