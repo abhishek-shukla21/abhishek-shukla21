@@ -23,7 +23,7 @@ Let's connect: <br> <br>
 - 📫 &nbsp; Special interests : Web Development, Digital Marketing, Data Analysis, SEO. 
 - 💬 &nbsp; Ask me about anything [here](https://www.twitter.com/sarcaster_21/)! I am happy to help.
 - 📫 &nbsp; How to reach me: shuklaabhishek1221@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/127DMrnTwLNpIDxlxxnAGATbgI1B1oI5x/view?usp=sharing) and [Portfolio](https://abhishekshukla21.netlify.app/) Website.
+- 📝 &nbsp; Checkout my [Resume](https://github.com/abhishek-shukla21/abhishek-shukla21.github.io/raw/main/Abhishek's%20Resume_25-Oct-21_12.00.36.pdf) and [Portfolio](https://abhishekshukla21.netlify.app/) Website.
 
 
 ### 🔨 Languages and Tools:
