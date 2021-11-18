@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+My+name+is+Abhishek+Shukla+%F0%9F%91%8B;I'm+a+WEB+Developer%F0%9F%92%BB;Have+Knowledge+of+Data+Analysis)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+My+name+is+Abhishek+Shukla+%F0%9F%91%8B;I'm+a+WEB+Developer%F0%9F%92%BB;I'm+a+Technical-Content-Writer%F0%9F%92%BB;Have+Knowledge+of+Data+Analysis)](https://git.io/typing-svg)
 
 
   
