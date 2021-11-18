@@ -17,8 +17,8 @@ Let's connect: <br> <br>
 
 ### More About me:
 
-- 🛠 &nbsp; I’m currently working on  : Web Devlopment (MERN)
-- 🚀 &nbsp; I’m currently learning  : JS, Nodejs, Express.
+- 🛠 &nbsp; I’m currently working on  : Web Devlopment.
+- 🚀 &nbsp; I’m currently learning  : MEAN Stack
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/abhishek-shukla21).
 - 📫 &nbsp; Special interests : Web Development, Digital Marketing, Data Analysis, SEO. 
 - 💬 &nbsp; Ask me about anything [here](https://www.twitter.com/sarcaster_21/)! I am happy to help.
