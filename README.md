@@ -7,7 +7,7 @@
 ### Let's have an Introduction &nbsp; 
 Dedicated and efficient Web developer with 1+ years experience, currently pursuing MSc in Informatics from Institute of Informatics and Communication (IIC), Delhi University. and graduated with a Degree in Bachelor of Computer Applications 🎓 from Maharaja Surajmal Institute, New Delhi.
 
-I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I have worked as a Web Developer where I was responsible creating UI and fixing Bugs. I have hands on experience in Data Analytics, Machine Learning, Web development using Shopify, Wix, Wordpress etc. I love to explore new technologies and leverage them to solve real-life problems. Apart from that in the free time I like to play VolleyBall or read a book✨
+I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I have worked as a Web Developer where I was responsible creating UI and fixing Bugs. I have hands on experience in Data Analytics, Machine Learning, Web development using Shopify, Wix, Wordpress etc. I love to explore new technologies and leverage them to solve real-life problems.✨
 ✨For more see my <a href="https://abhishek-shukla21.github.io/">portfolio</a>.
 
 Let's connect: <br> <br>
