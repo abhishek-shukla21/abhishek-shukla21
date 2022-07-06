@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+My+name+is+Abhishek+Shukla+%F0%9F%91%8B;I'm+a+WEB+Developer%F0%9F%92%BB;I'm+a+Technical+Content+Writer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+My+name+is+Abhishek+Shukla+%F0%9F%91%8B;I'm+a+FullStack+Developer%F0%9F%92%BB;I'm+a+Technical+Content+Writer)](https://git.io/typing-svg)
 
   
 
@@ -18,7 +18,7 @@ Let's connect: <br> <br>
 
 ### More About me:
 
-- 🛠 &nbsp; I’m currently working on  : Web Devlopment.
+- 🛠 &nbsp; I’m currently working on  : Full Stack Devlopment.
 - 🚀 &nbsp; I’m currently learning  : MEAN Stack
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/abhishek-shukla21).
 - 📫 &nbsp; Special interests : Web Development, Digital Marketing, Data Analysis, SEO. 
