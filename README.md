@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+My+name+is+Abhishek+Shukla+%F0%9F%91%8B;I'm+a+FullStack+Developer%F0%9F%92%BB;I'm+a+Technical+Content+Writer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+My+name+is+Abhishek+Shukla+%F0%9F%91%8B;I'm+a+Full+Stack+Developer%F0%9F%92%BB;I'm+a+Technical+Content+Writer)](https://git.io/typing-svg)
 
   
 
 
 ### Let's have an Introduction &nbsp; 
-Dedicated and efficient Web developer with 1+ years experience, currently pursuing MSc in Informatics from Institute of Informatics and Communication (IIC), Delhi University. and graduated with a Degree in Bachelor of Computer Applications 🎓 from Maharaja Surajmal Institute, New Delhi.
+Dedicated and efficient Full Stack developer, currently pursuing MSc in Informatics from Institute of Informatics and Communication (IIC), University of Delhi and graduated with a Degree in Bachelor of Computer Applications 🎓 from Maharaja Surajmal Institute,(GGSIPU) New Delhi.
 
 I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I have worked as a Web Developer where I was responsible creating UI and fixing Bugs. I have hands on experience in Data Analytics, Machine Learning, Web development using Shopify, Wix, Wordpress etc. I love to explore new technologies and leverage them to solve real-life problems.✨
 ✨For more see my <a href="https://abhishek-shukla21.github.io/">portfolio</a>.
