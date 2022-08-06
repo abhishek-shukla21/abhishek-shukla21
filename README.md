@@ -8,9 +8,6 @@ Hi, I am a dedicated and efficient Full Stack Developer currently pursuing an MS
 
 I'm a passionate learner who's always willing to learn and work across technologies and domains. I have worked as a Web Developer where I was responsible for creating UI and Web Applications. I have hands-on experience in Data Analytics, Machine Learning, and Web development (using Shopify, Wix, WordPress etc). I love to explore new technologies and leverage them to solve real-life problems. Apart from that in my free time, I like to play volleyball or read a book.
 
-<br>
-<p>
-For more see my [![Portfolio](https://img.shields.io/badge/Portfolio-blue)](https://abhishek-shukla21.github.io).</p>
 
 Let's connect: <br> <br>
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-shukla21/)
