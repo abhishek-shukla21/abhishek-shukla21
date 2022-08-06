@@ -4,11 +4,13 @@
 
 
 ### Let's have an Introduction &nbsp; 
-Dedicated and efficient Full Stack developer, currently pursuing MSc in Informatics from Institute of Informatics and Communication (IIC), University of Delhi and graduated with a Degree in Bachelor of Computer Applications 🎓 from Maharaja Surajmal Institute,(GGSIPU) New Delhi.
+Hi, I am a dedicated and efficient Full Stack Developer currently pursuing an MSc in Informatics from the Institute of Informatics and Communication (IIC),University of Delhi and graduated with a Degree in Bachelor of Computer Applications from Maharaja Surajmal Institute, New Delhi.
 
-I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I have worked as a Web Developer where I was responsible creating UI and fixing Bugs. I have hands on experience in Data Analytics, Machine Learning, Web development using Shopify, Wix, Wordpress etc. I love to explore new technologies and leverage them to solve real-life problems.
+I'm a passionate learner who's always willing to learn and work across technologies and domains. I have worked as a Web Developer where I was responsible for creating UI and Web Applications. I have hands-on experience in Data Analytics, Machine Learning, and Web development (using Shopify, Wix, WordPress etc). I love to explore new technologies and leverage them to solve real-life problems. Apart from that in my free time, I like to play volleyball or read a book.
+
 <br>
-<p>For more see my <a href="https://abhishek-shukla21.github.io/">portfolio</a>.</p>
+<p>
+For more see my <a href="https://abhishek-shukla21.github.io/">portfolio</a>.</p>
 
 Let's connect: <br> <br>
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-shukla21/)
@@ -28,10 +30,27 @@ Let's connect: <br> <br>
 - 📝 &nbsp; Checkout my [Resume](https://github.com/abhishek-shukla21/abhishek-shukla21.github.io/raw/main/Abhishek's%20Resume_25-Oct-21_12.00.36.pdf) and [Portfolio](https://abhishekshukla21.netlify.app/) Website.
 
 
-### 🔨 Languages and Tools:
+### :gear: Technologies which I'm familiar with:
+![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=FFFFFF)
+![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
+![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>
 
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  </a>  </p>
-<!-- <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> -->
+![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Jinja](https://img.shields.io/badge/Jinja%20-%23000000.svg?&style=for-the-badge&logo=Jinja&logoColor=B41717)
+![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MONGO](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)<br>
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF)
+![Materialize](https://img.shields.io/badge/Materialize%20-%23EE6E73.svg?&style=for-the-badge&logo=Materialize&logoColor=FFFFFF) <br>
+
+![VSCode](https://img.shields.io/badge/VSCode%20-%232B2B30.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC)
+[![GitHub](https://img.shields.io/badge/GitHub%20-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/irinatu17)
+![Git](https://img.shields.io/badge/Git%20-%23302F2F.svg?&style=for-the-badge&logo=Git&logoColor=F05032)
+![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=for-the-badge&logo=Heroku&logoColor=FFFFFF)
 
 
 ### 🔥 Streak stats
