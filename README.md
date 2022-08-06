@@ -15,6 +15,7 @@ For more see my <a href="https://abhishek-shukla21.github.io/">portfolio</a>.</p
 Let's connect: <br> <br>
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-shukla21/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sarcaster_21/)
+[![Portfolio](https://img.shields.io/badge/A-Portfolio-blue)](https://abhishek-shukla21.github.io)
 
 
 
@@ -31,26 +32,38 @@ Let's connect: <br> <br>
 
 
 ### :gear: Technologies which I'm familiar with:
-![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=FFFFFF)
-![CSS3](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=FFFFFF)
-![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
-![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>
+### Languages:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=ffffff&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=ffffff&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=333333&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=ffdf76&style=for-the-badge)
+![Markdown](https://img.shields.io/badge/Markdown-333333?logo=Markdown&logoColor=FFFFFF&style=for-the-badge)
 
-![DJANGO](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Jinja](https://img.shields.io/badge/Jinja%20-%23000000.svg?&style=for-the-badge&logo=Jinja&logoColor=B41717)
-![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MONGO](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)<br>
+### Frameworks | Libraries | Templates | APIs:
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=ffffff&style=for-the-badge)
+![FontAwesome](https://img.shields.io/badge/FontAwesome-339AF0?logo=font-awesome&logoColor=ffffff&style=for-the-badge)
+![jQuery](https://img.shields.io/badge/jQuery-7ACEF4?logo=jQuery&logoColor=000000&style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-ffffff?logo=flask&logoColor=000000&style=for-the-badge)
+![Jinja](https://img.shields.io/badge/Jinja-B41717?logo=jinja&logoColor=ffffff&style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=ffffff&style=for-the-badge)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=ffffff&style=for-the-badge)
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=Bootstrap&logoColor=FFFFFF)
-![Materialize](https://img.shields.io/badge/Materialize%20-%23EE6E73.svg?&style=for-the-badge&logo=Materialize&logoColor=FFFFFF) <br>
+### Coding | Version Control: 
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=ffffff&style=for-the-badge)
+[![Github](https://img.shields.io/badge/GitHub-73427A?logo=github&logoColor=ffffff&style=for-the-badge)](https://github.com/rebeccatraceyt)
+![VSCode](https://img.shields.io/badge/VSCode-24bfa5?logo=visual-studio&logoColor=ffffff&style=for-the-badge)
 
-![VSCode](https://img.shields.io/badge/VSCode%20-%232B2B30.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC)
-[![GitHub](https://img.shields.io/badge/GitHub%20-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=FFFFFF)](https://github.com/irinatu17)
-![Git](https://img.shields.io/badge/Git%20-%23302F2F.svg?&style=for-the-badge&logo=Git&logoColor=F05032)
-![Heroku](https://img.shields.io/badge/Heroku%20-%23430098.svg?&style=for-the-badge&logo=Heroku&logoColor=FFFFFF)
+
+### Databases:
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=ffffff&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=ffffff&style=for-the-badge)
+
+
+### Cloud Platforms: 
+![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=ffffff&style=for-the-badge)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazon-aws&logoColor=ffffff&style=for-the-badge)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?logo=mongodb&logoColor=ffffff&style=for-the-badge)
+
 
 
 ### 🔥 Streak stats
