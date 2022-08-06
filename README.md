@@ -10,12 +10,12 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 <br>
 <p>
-For more see my <a href="https://abhishek-shukla21.github.io/">portfolio</a>.</p>
+For more see my [![Portfolio](https://img.shields.io/badge/Portfolio-blue)](https://abhishek-shukla21.github.io).</p>
 
 Let's connect: <br> <br>
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-shukla21/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sarcaster_21/)
-[![Portfolio](https://img.shields.io/badge/A-Portfolio-blue)](https://abhishek-shukla21.github.io)
+
 
 
 
