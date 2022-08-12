@@ -4,9 +4,10 @@
 
 
 ### Let's have an Introduction &nbsp; 
-Hi, I am a dedicated and efficient Full Stack Developer currently pursuing an MSc in Informatics from the Institute of Informatics and Communication (IIC),University of Delhi and graduated with a Degree in Bachelor of Computer Applications from Maharaja Surajmal Institute, New Delhi.
+Hi, I am a dedicated and efficient Full Stack Developer currently pursuing an <strong>MSc in Informatics</Strong> from the <strong>Institute of Informatics and Communication (IIC), University of Delhi</strong>. I graduated with a <strong>Bachelors of Computer Applications</strong> degree from Maharaja Surajmal Institute, GGSIP University</strong>, New Delhi.
 
-I'm a passionate learner who's always willing to learn and work across technologies and domains. I have worked as a Web Developer where I was responsible for creating UI and Web Applications. I have hands-on experience in Data Analytics, Machine Learning, and Web development (using Shopify, Wix, WordPress etc). I love to explore new technologies and leverage them to solve real-life problems. Apart from that in my free time, I like to play volleyball or read a book.
+I'm a passionate learner who's always willing to learn and work across technologies and domains. I have worked as a <code>Web Developer</code> responsible for creating <code>UI</code> and <code>Web Applications</code>. I have hands-on experience in <code>Data Analytics</code>, <code>Machine Learning</code>, and <code>Web development</code> (using <code>Shopify</code>, <code>Wix</code>, <code>WordPress</code> etc). I love to explore new technologies and leverage them to solve real-life problems. In my free time, I also like to play volleyball or read a book.
+
 
 
 Let's connect: <br> <br>
@@ -25,7 +26,7 @@ Let's connect: <br> <br>
 - 📫 &nbsp; Special interests : Web Development, Digital Marketing, Data Analysis, SEO. 
 - 💬 &nbsp; Ask me about anything [here](https://www.twitter.com/sarcaster_21/)! I am happy to help.
 - 📫 &nbsp; How to reach me: shuklaabhishek1221@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/abhishek-shukla21/abhishek-shukla21.github.io/raw/main/Abhishek's%20Resume_25-Oct-21_12.00.36.pdf) and [Portfolio](https://abhishekshukla21.netlify.app/) Website.
+- 📝 &nbsp; Checkout my <code>[Resume](https://github.com/abhishek-shukla21/abhishek-shukla21.github.io/raw/main/Abhishek's%20Resume_25-Oct-21_12.00.36.pdf)</code> and <code>[Portfolio](https://abhishekshukla21.netlify.app/)</code> Website.
 
 
 ### :gear: Technologies which I'm familiar with:
