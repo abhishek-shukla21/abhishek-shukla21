@@ -1,12 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+My+name+is+Abhishek+Shukla+%F0%9F%91%8B;I'm+a+Full+Stack+Developer%F0%9F%92%BB;I'm+a+Technical+Content+Writer)](https://git.io/typing-svg)
 
-  
 
-
-### Let's have an Introduction &nbsp; 
-Hi, I am a dedicated and efficient Full Stack Developer currently pursuing an <strong>MSc in Informatics</Strong> from the <strong>Institute of Informatics and Communication (IIC), University of Delhi</strong>. I graduated with a <strong>Bachelors of Computer Applications</strong> degree from Maharaja Surajmal Institute, GGSIP University</strong>, New Delhi.
-
-I'm a passionate learner who's always willing to learn and work across technologies and domains. I have worked as a <code>Web Developer</code> responsible for creating <code>UI</code> and <code>Web Applications</code>. I have hands-on experience in <code>Data Analytics</code>, <code>Machine Learning</code>, and <code>Web development</code> (using <code>Shopify</code>, <code>Wix</code>, <code>WordPress</code> etc). I love to explore new technologies and leverage them to solve real-life problems. In my free time, I also like to play volleyball or read a book.
 
 
 
@@ -18,15 +12,8 @@ Let's connect: <br> <br>
 
 
 
-### More About me:
 
-- 🛠 &nbsp; I’m currently working on  : Full Stack Devlopment.
-- 🚀 &nbsp; I’m currently learning  : MEAN Stack
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/abhishek-shukla21).
-- 📫 &nbsp; Special interests : Web Development, Digital Marketing, Data Analysis, SEO. 
-- 💬 &nbsp; Ask me about anything [here](https://www.twitter.com/sarcaster_21/)! I am happy to help.
-- 📫 &nbsp; How to reach me: shuklaabhishek1221@gmail.com.
-- 📝 &nbsp; Checkout my <code>[Resume](https://github.com/abhishek-shukla21/abhishek-shukla21.github.io/raw/main/Abhishek's%20Resume_25-Oct-21_12.00.36.pdf)</code> and <code>[Portfolio](https://abhishekshukla21.netlify.app/)</code> Website.
+Checkout my <code>[Resume](https://github.com/abhishek-shukla21/abhishek-shukla21.github.io/raw/main/Abhishek's%20Resume_25-Oct-21_12.00.36.pdf)</code> and <code>[Portfolio](https://abhishekshukla21.netlify.app/)</code> Website.
 
 
 ### :gear: Technologies which I'm familiar with:
