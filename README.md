@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+My+name+is+Abhishek+Shukla+%F0%9F%91%8B;I'm+a+Full+Stack+Developer%F0%9F%92%BB;I'm+a+Technical+Content+Writer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+My+name+is+Abhishek+Shukla+%F0%9F%91%8B;I'm+a+Full+Stack+Developer%F0%9F%92%BB)](https://git.io/typing-svg)
 
 
 
@@ -13,7 +13,7 @@ Let's connect: <br> <br>
 
 
 
-Checkout my <code>[Resume](https://github.com/abhishek-shukla21/abhishek-shukla21.github.io/raw/main/Abhishek's%20Resume_25-Oct-21_12.00.36.pdf)</code> and <code>[Portfolio](https://abhishekshukla21.netlify.app/)</code> Website.
+Checkout my <code>[Portfolio](https://abhishekshukla21.netlify.app/)</code> Website.
 
 
 ### :gear: Technologies which I'm familiar with:
