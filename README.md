@@ -1,17 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+My+name+is+Abhishek+Shukla+%F0%9F%91%8B;I'm+a+Full+Stack+Developer%F0%9F%92%BB)](https://git.io/typing-svg)
 
 
-
-
-
 Let's connect: <br> <br>
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-shukla21/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sarcaster_21/)
-
-
-
-
-
 
 Checkout my <code>[Portfolio](https://abhishekshukla21.netlify.app/)</code> Website.
 
@@ -26,12 +18,10 @@ Checkout my <code>[Portfolio](https://abhishekshukla21.netlify.app/)</code> Webs
 
 ### Frameworks | Libraries | Templates | APIs:
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=ffffff&style=for-the-badge)
-![FontAwesome](https://img.shields.io/badge/FontAwesome-339AF0?logo=font-awesome&logoColor=ffffff&style=for-the-badge)
 ![jQuery](https://img.shields.io/badge/jQuery-7ACEF4?logo=jQuery&logoColor=000000&style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-ffffff?logo=flask&logoColor=000000&style=for-the-badge)
 ![Jinja](https://img.shields.io/badge/Jinja-B41717?logo=jinja&logoColor=ffffff&style=for-the-badge)
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=ffffff&style=for-the-badge)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=ffffff&style=for-the-badge)
 
 ### Coding | Version Control: 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=ffffff&style=for-the-badge)
