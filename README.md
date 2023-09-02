@@ -1,22 +1,26 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+My+name+is+Abhishek+Shukla+%F0%9F%91%8B;I'm+a+Full+Stack+Developer%F0%9F%92%BB)](https://git.io/typing-svg)
 
 
-Let's connect: <br> <br>
+<div align='center'>
+  
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-shukla21/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sarcaster_21/)
+
+</div>
 
 Checkout my <code>[Portfolio](https://abhishekshukla21.netlify.app/)</code> Website.
 
 
 ### :gear: Technologies which I'm familiar with:
 ### Languages:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=ffffff&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=ffffff&style=for-the-badge)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=333333&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=ffdf76&style=for-the-badge)
-![Markdown](https://img.shields.io/badge/Markdown-333333?logo=Markdown&logoColor=FFFFFF&style=for-the-badge)
 
-### Frameworks | Libraries | Templates | APIs:
+### Frameworks | APIs:
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=ffffff&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=ffffff&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=ffffff&style=for-the-badge)
 ![jQuery](https://img.shields.io/badge/jQuery-7ACEF4?logo=jQuery&logoColor=000000&style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-ffffff?logo=flask&logoColor=000000&style=for-the-badge)
