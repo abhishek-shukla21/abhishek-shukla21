@@ -4,15 +4,14 @@
 <div align='center'>
   
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-shukla21/)
-[![Dev Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://www.linkedin.com/in/abhishek-shukla21/)
+[![Dev Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/abhishekshukla)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sarcaster_21/)
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://twitter.com/sarcaster_21/)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abhishek-shukla21)
 </div>
 
 Checkout my <code>[Portfolio](https://abhishekshukla21.netlify.app/)</code> Website.
 
 
-### :gear: Technologies which I'm familiar with:
 ### Languages:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=333333&style=for-the-badge)
@@ -41,7 +40,6 @@ Checkout my <code>[Portfolio](https://abhishekshukla21.netlify.app/)</code> Webs
 ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=ffffff&style=for-the-badge)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazon-aws&logoColor=ffffff&style=for-the-badge)
 ![Azure](https://img.shields.io/badge/Azure-47A248?logo=azure&logoColor=ffffff&style=for-the-badge)
-
 
 
 ### 🔥 Streak stats
