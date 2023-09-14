@@ -1,11 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+My+name+is+Abhishek+Shukla+%F0%9F%91%8B;I'm+a+Full+Stack+Developer%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cooper+Black&color=18BEF7&size=30&center=true&vCenter=true&width=1000&height=30&lines=Hi+My+name+is+Abhishek+Shukla+%F0%9F%91%8B;I'm+a+Web+Developer%F0%9F%92%BB)](https://git.io/typing-svg)
 
 
 <div align='center'>
   
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-shukla21/)
+[![Dev Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://www.linkedin.com/in/abhishek-shukla21/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sarcaster_21/)
-
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://twitter.com/sarcaster_21/)
 </div>
 
 Checkout my <code>[Portfolio](https://abhishekshukla21.netlify.app/)</code> Website.
@@ -22,10 +23,8 @@ Checkout my <code>[Portfolio](https://abhishekshukla21.netlify.app/)</code> Webs
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=ffffff&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=ffffff&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=ffffff&style=for-the-badge)
-![jQuery](https://img.shields.io/badge/jQuery-7ACEF4?logo=jQuery&logoColor=000000&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DBFB?logo=react&logoColor=ffffff&style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-ffffff?logo=flask&logoColor=000000&style=for-the-badge)
-![Jinja](https://img.shields.io/badge/Jinja-B41717?logo=jinja&logoColor=ffffff&style=for-the-badge)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=ffffff&style=for-the-badge)
 
 ### Coding | Version Control: 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=ffffff&style=for-the-badge)
@@ -41,7 +40,7 @@ Checkout my <code>[Portfolio](https://abhishekshukla21.netlify.app/)</code> Webs
 ### Cloud Platforms: 
 ![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=ffffff&style=for-the-badge)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazon-aws&logoColor=ffffff&style=for-the-badge)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?logo=mongodb&logoColor=ffffff&style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure-47A248?logo=azure&logoColor=ffffff&style=for-the-badge)
 
 
 
